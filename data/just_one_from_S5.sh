@@ -1,0 +1,16 @@
+curl -C - -L -o tess2018345172939-s0005-2-4-0125-s_ffic.fits https://mast.stsci.edu/api/v0.1/Download/file/?uri=mast:TESS/product/tess2018345172939-s0005-2-4-0125-s_ffic.fits
+curl -C - -L -o tess2018345172939-s0005-3-1-0125-s_ffic.fits https://mast.stsci.edu/api/v0.1/Download/file/?uri=mast:TESS/product/tess2018345172939-s0005-3-1-0125-s_ffic.fits
+curl -C - -L -o tess2018345172939-s0005-1-2-0125-s_ffic.fits https://mast.stsci.edu/api/v0.1/Download/file/?uri=mast:TESS/product/tess2018345172939-s0005-1-2-0125-s_ffic.fits
+curl -C - -L -o tess2018345172939-s0005-1-3-0125-s_ffic.fits https://mast.stsci.edu/api/v0.1/Download/file/?uri=mast:TESS/product/tess2018345172939-s0005-1-3-0125-s_ffic.fits
+curl -C - -L -o tess2018345172939-s0005-4-1-0125-s_ffic.fits https://mast.stsci.edu/api/v0.1/Download/file/?uri=mast:TESS/product/tess2018345172939-s0005-4-1-0125-s_ffic.fits
+curl -C - -L -o tess2018345172939-s0005-4-2-0125-s_ffic.fits https://mast.stsci.edu/api/v0.1/Download/file/?uri=mast:TESS/product/tess2018345172939-s0005-4-2-0125-s_ffic.fits
+curl -C - -L -o tess2018345172939-s0005-1-1-0125-s_ffic.fits https://mast.stsci.edu/api/v0.1/Download/file/?uri=mast:TESS/product/tess2018345172939-s0005-1-1-0125-s_ffic.fits
+curl -C - -L -o tess2018345172939-s0005-3-2-0125-s_ffic.fits https://mast.stsci.edu/api/v0.1/Download/file/?uri=mast:TESS/product/tess2018345172939-s0005-3-2-0125-s_ffic.fits
+curl -C - -L -o tess2018345172939-s0005-2-3-0125-s_ffic.fits https://mast.stsci.edu/api/v0.1/Download/file/?uri=mast:TESS/product/tess2018345172939-s0005-2-3-0125-s_ffic.fits
+curl -C - -L -o tess2018345172939-s0005-3-3-0125-s_ffic.fits https://mast.stsci.edu/api/v0.1/Download/file/?uri=mast:TESS/product/tess2018345172939-s0005-3-3-0125-s_ffic.fits
+curl -C - -L -o tess2018345172939-s0005-4-4-0125-s_ffic.fits https://mast.stsci.edu/api/v0.1/Download/file/?uri=mast:TESS/product/tess2018345172939-s0005-4-4-0125-s_ffic.fits
+curl -C - -L -o tess2018345172939-s0005-3-4-0125-s_ffic.fits https://mast.stsci.edu/api/v0.1/Download/file/?uri=mast:TESS/product/tess2018345172939-s0005-3-4-0125-s_ffic.fits
+curl -C - -L -o tess2018345172939-s0005-2-2-0125-s_ffic.fits https://mast.stsci.edu/api/v0.1/Download/file/?uri=mast:TESS/product/tess2018345172939-s0005-2-2-0125-s_ffic.fits
+curl -C - -L -o tess2018345172939-s0005-4-3-0125-s_ffic.fits https://mast.stsci.edu/api/v0.1/Download/file/?uri=mast:TESS/product/tess2018345172939-s0005-4-3-0125-s_ffic.fits
+curl -C - -L -o tess2018345172939-s0005-1-4-0125-s_ffic.fits https://mast.stsci.edu/api/v0.1/Download/file/?uri=mast:TESS/product/tess2018345172939-s0005-1-4-0125-s_ffic.fits
+curl -C - -L -o tess2018345172939-s0005-2-1-0125-s_ffic.fits https://mast.stsci.edu/api/v0.1/Download/file/?uri=mast:TESS/product/tess2018345172939-s0005-2-1-0125-s_ffic.fits
