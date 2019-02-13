@@ -4,6 +4,11 @@
 Created on Fri Feb  1 13:37:20 2019
 
 @author: cjburke
+
+Computes the position of TESS relative to the Earth.
+The required files can be downloaded from
+https://archive.stsci.edu/missions/tess/models/
+
 """
 
 import numpy as np
@@ -16,7 +21,6 @@ from astropy.coordinates import SkyCoord, ICRS, FK4, Angle, GCRS
 from astropy.time import Time
 from astropy import units as u
 from astropy.io import fits
-#from tess_stars2px import tess_stars2px_function_entry
 from astropy.coordinates.attributes import (TimeAttribute,
                           CartesianRepresentationAttribute)
 from astropy.coordinates import solar_system_ephemeris
